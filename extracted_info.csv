@@ -1,0 +1,21 @@
+resume3.txt
+Company Name,Quanta,United by Design (UXD)
+Job Title,"Co-Founder, Chief Operating Officer & Executive Board Member",Co-Founder & Managing Director
+Start Date,2020,2019
+End Date,2022,2020
+Description,"Co-Founded Treasury Risk Management SaaS and Global Hedge Network. Served as Head of Product and Design in addition to Chief Operating Officer. Formed product vision and laid the groundwork for diverse, collaborative team culture. Developed and managed product roadmap, using data to prioritize feature development. Managed cross-functional Agile team to develop beta in under 9 months. Acquired 3 corporate customers with 30 unique users within 1 month of beta release. Conducted >100 customer interviews with key users, as well decision makers to make data-driven decisions. Built UI design system to create 120+ screens and prototype over 30 complex features. Raised $600,000+ in pre-seed investment from accredited investors. Led talent recruitment, interviewing, and onboarding to grow the team 3x within 1 year of funding. Retained as Strategic Advisor post-exit.","Launched and scaled local art production company into a global creative design agency. Boosted sales by 150%+ within 3 months of joining the firm by implementing a targeted marketing strategy. Grew client roster 4x, adding professional sports franchises, global brands, and commercial property developers. Led internal digital transformation, automated sales pitches, customer engagement, and accounting. Retained as Strategic Advisor post-exit."
+Skills,Agile Product Management,Customer Interviews,Rapid MVP Prototyping,Competitive Market Analysis,SaaS Product Branding and Market Positioning,Domain Driven Design,Design Thinking,UI/UX Product Design
+resume2.txt
+Company Name,mHUB,Other World Computing
+Job Title,Web Developer,Junior Software Engineer / QA Engineer
+Start Date,September 2019,June 2010
+End Date,November 2019,August 2010
+Description,Backend web development on B2B application for product research & development using Ruby on Rails and JavaScript. Integrated new assets into the company's newly acquired application to update its branding.,"Worked as a Junior Software Engineer and QA Engineer, gaining experience in software development and quality assurance."
+Skills,JavaScript,Node.js,React,HTML,CSS,Sass,Ruby on Rails,PHP,MySQL,PostgreSQL,MongoDB,C#,.NET,Git,Docker,Vagrant,Direct3D,WebGL,OOP,MVC,REST
+resume1.txt
+Company Name,Omnitracs,ServiceTitan
+Job Title,Network Operations Specialist,Network Operations Center Engineer
+Start Date,November 2018,August 2021
+End Date,August 2021,October 2023
+Description,Monitor production systems and run backups at the data center. Perform troubleshooting and escalate issues to other teams as needed. Develop and improve operational practices and procedures.,"Assisted with managing global releases, responded to production incidents, managed deployments for CI/CD pipeline, and provided tier 1 support for infrastructure requests."
+Skills,Linux,AWS,Python,Git,Github,TeamCity,Datadog,OpsGenie,Documentation,JIRA,AWS Certified Cloud Practitioner,CCNA Routing & Switching,CompTIA A+,CompTIA Network+,CompTIA Security+,Splunk Core Certified User

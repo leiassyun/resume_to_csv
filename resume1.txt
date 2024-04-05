@@ -1,0 +1,36 @@
+{
+  "work_output": [
+	{
+  	"company_name": "Omnitracs",
+  	"job_title": "Network Operations Specialist",
+  	"start_date": "November 2018",
+  	"end_date": "August 2021",
+  	"description": "Monitor production systems and run backups at the data center. Perform troubleshooting and escalate issues to other teams as needed. Develop and improve operational practices and procedures."
+	},
+	{
+  	"company_name": "ServiceTitan",
+  	"job_title": "Network Operations Center Engineer",
+  	"start_date": "August 2021",
+  	"end_date": "October 2023",
+  	"description": "Assisted with managing global releases, responded to production incidents, managed deployments for CI/CD pipeline, and provided tier 1 support for infrastructure requests."
+	}
+  ],
+  "skills": [
+	"Linux",
+	"AWS",
+	"Python",
+	"Git",
+	"Github",
+	"TeamCity",
+	"Datadog",
+	"OpsGenie",
+	"Documentation",
+	"JIRA",
+	"AWS Certified Cloud Practitioner",
+	"CCNA Routing & Switching",
+	"CompTIA A+",
+	"CompTIA Network+",
+	"CompTIA Security+",
+	"Splunk Core Certified User"
+  ]
+}

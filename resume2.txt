@@ -1,0 +1,41 @@
+{
+  "work_output": [
+	{
+  	"company_name": "mHUB",
+  	"job_title": "Web Developer",
+  	"start_date": "September 2019",
+  	"end_date": "November 2019",
+  	"description": "Backend web development on B2B application for product research & development using Ruby on Rails and JavaScript. Integrated new assets into the company's newly acquired application to update its branding."
+	},
+	{
+  	"company_name": "Other World Computing",
+  	"job_title": "Junior Software Engineer / QA Engineer",
+  	"start_date": "June 2010",
+  	"end_date": "August 2010",
+  	"description": "Worked as a Junior Software Engineer and QA Engineer, gaining experience in software development and quality assurance."
+	}
+  ],
+  "skills": [
+	"JavaScript",
+	"Node.js",
+	"React",
+	"HTML",
+	"CSS",
+	"Sass",
+	"Ruby on Rails",
+	"PHP",
+	"MySQL",
+	"PostgreSQL",
+	"MongoDB",
+	"C#",
+	".NET",
+	"Git",
+	"Docker",
+	"Vagrant",
+	"Direct3D",
+	"WebGL",
+	"OOP",
+	"MVC",
+	"REST"
+  ]
+}

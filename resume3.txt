@@ -1,0 +1,28 @@
+{
+  "work_output": [
+	{
+  	"company_name": "Quanta",
+  	"job_title": "Co-Founder, Chief Operating Officer & Executive Board Member",
+  	"start_date": "2020",
+  	"end_date": "2022",
+  	"description": "Co-Founded Treasury Risk Management SaaS and Global Hedge Network. Served as Head of Product and Design in addition to Chief Operating Officer. Formed product vision and laid the groundwork for diverse, collaborative team culture. Developed and managed product roadmap, using data to prioritize feature development. Managed cross-functional Agile team to develop beta in under 9 months. Acquired 3 corporate customers with 30 unique users within 1 month of beta release. Conducted >100 customer interviews with key users, as well decision makers to make data-driven decisions. Built UI design system to create 120+ screens and prototype over 30 complex features. Raised $600,000+ in pre-seed investment from accredited investors. Led talent recruitment, interviewing, and onboarding to grow the team 3x within 1 year of funding. Retained as Strategic Advisor post-exit."
+	},
+	{
+  	"company_name": "United by Design (UXD)",
+  	"job_title": "Co-Founder & Managing Director",
+  	"start_date": "2019",
+  	"end_date": "2020",
+  	"description": "Launched and scaled local art production company into a global creative design agency. Boosted sales by 150%+ within 3 months of joining the firm by implementing a targeted marketing strategy. Grew client roster 4x, adding professional sports franchises, global brands, and commercial property developers. Led internal digital transformation, automated sales pitches, customer engagement, and accounting. Retained as Strategic Advisor post-exit."
+	}
+  ],
+  "skills": [
+	"Agile Product Management",
+	"Customer Interviews",
+	"Rapid MVP Prototyping",
+	"Competitive Market Analysis",
+	"SaaS Product Branding and Market Positioning",
+	"Domain Driven Design",
+	"Design Thinking",
+	"UI/UX Product Design"
+  ]
+}
